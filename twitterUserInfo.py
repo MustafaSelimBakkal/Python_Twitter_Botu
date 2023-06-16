@@ -1,0 +1,2 @@
+usarname = "twitterusarname"
+password = "twitterpassword"
